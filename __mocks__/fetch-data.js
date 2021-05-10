@@ -3,7 +3,7 @@ const fetchData = () => {
     userId: 1,
     id: 1,
     completed: true,
-    title: 'By grcrs'
+    title: 'Buy groceries'
   });
 };
 
